@@ -1,8 +1,44 @@
-# thiis  a readme file
-## Sample File
+<!-- Headings -->
+# 
 
-# this is updated line
-# this is updated file 2
-# this is new line
+<!-- Italics -->
 
-# this is featurebranch1
+
+<!-- Strong -->
+
+
+
+
+<!-- Strikethrough -->
+
+
+<!-- Horizontal Rule -->
+
+<!-- Blockquote -->
+
+
+<!-- Links -->
+
+
+<!-- UL -->
+
+
+  
+<!-- OL -->
+
+
+
+<!-- Inline Code Block -->
+
+
+<!-- Images -->
+
+
+<!-- Github Markdown -->
+
+<!-- Code Blocks -->
+
+<!-- Tables -->
+
+
+<!-- Task List -->
